@@ -105,7 +105,7 @@ window.onload = (event) => {
     container: 'map',
     hash: "map",
     style: './styles/basemap.json',
-    center: [39.546/-111.545],
+    center: [-111.545,39.546],
     zoom: 6
   });
 
