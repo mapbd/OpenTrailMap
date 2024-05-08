@@ -212,7 +212,7 @@
       "source-layer": "building",
       "paint": {
         "fill-antialias": true,
-        "fill-color": "rgba(222, 211, 190, 1)",
+        "fill-color": "rgba(101, 27, 234, 1)",
         "fill-opacity": {"base": 1, "stops": [[13, 0], [15, 1]]},
         "fill-outline-color": {
           "stops": [
@@ -418,7 +418,7 @@
       ],
       "layout": {"line-cap": "round", "line-join": "round"},
       "paint": {
-        "line-color": "#fff",
+        "line-color": "#432aed",
         "line-width": {"base": 1.4, "stops": [[6, 0.5], [20, 30]]}
       }
     },
